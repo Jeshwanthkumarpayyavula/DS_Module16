@@ -20,7 +20,7 @@ first linker child.
 Program to write a C function to delete an element in a B Tree.
 
 Developed by: P JESHWANTH KUMAR
-RegisterNumber:  2122232340114
+RegisterNumber:  212223240114
 
  
 /*struct BTreeNode { 
